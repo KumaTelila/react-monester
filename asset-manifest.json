@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-monester/static/css/main.01d4cc73.css",
+    "main.js": "/react-monester/static/js/main.63f6c1a6.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/react-monester/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/react-monester/index.html",
+    "main.01d4cc73.css.map": "/react-monester/static/css/main.01d4cc73.css.map",
+    "main.63f6c1a6.js.map": "/react-monester/static/js/main.63f6c1a6.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/react-monester/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01d4cc73.css",
+    "static/js/main.63f6c1a6.js"
+  ]
+}
